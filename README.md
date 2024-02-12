@@ -2,7 +2,7 @@
 
 In this repo we will keep shell scripts.
 
-shell topics
+Shell Topics
 ------------
 1)Printing
 2)Variables(V)
