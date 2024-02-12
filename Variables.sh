@@ -1,3 +1,4 @@
+#! /bin/bash
 ## If we assign a name to set of data is called as Variable.
 trainer=Raghu
 class=DevOps
