@@ -10,3 +10,7 @@ echo "Hey Today's date is $DATE"
 
 ADD=$((2+3))
 echo "ADDing of  2+3 = $ADD"
+
+## Variable from command line
+
+echo b - $b
