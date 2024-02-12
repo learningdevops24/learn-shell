@@ -4,4 +4,4 @@ trainer=Raghu
 class=DevOps
 
 echo Trainer Name - $trainer
-echo Class Name - {$class}
+echo Class Name - ${class}
