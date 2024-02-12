@@ -9,4 +9,4 @@ DATE=$(date +%F)
 echo "Hey Today's date is $DATE"
 
 ADD=$((2+3))
-echo $ADD
+echo "ADDing of  2+3 $ADD"
