@@ -1,3 +1,6 @@
 #! /bin/bash
 
-echo "Learning Devops & AWS is easy if we learn everyday"
+a=DevOps
+b=AWS
+
+echo "Learning $a & $b is easy if we learn everyday"
